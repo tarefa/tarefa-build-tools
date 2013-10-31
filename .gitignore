@@ -1,0 +1,3 @@
+# tarefa-build-tools' .gitignore files are located...
+# 1. In each the project's root (where Eclipse EGit / JGit puts them)
+# 2. As placeholders to force creation of otherwise ignored folders
